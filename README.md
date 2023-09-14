@@ -23,9 +23,9 @@ Display the output for the input read from the user.
 Stop the execution.
 
 ### Program:
-Program developed by : S Dhanush Praboo
+Program developed by : S Praneet
 
-Register number : 212221230019
+Register number : 212221230078
 ~~~~
 using System;
 namespace eligible
